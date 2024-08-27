@@ -20,7 +20,7 @@ print(elaestehik)
 
 # list.pop([i]) quitas un elemento pero con la posición
 elaestehik.pop(3)
-print(elaestehik)
+print(elaestehik.pop(3))
 
 # list.clear(), quita toda la lista
 
@@ -32,7 +32,9 @@ print(elaestehik.index('e-girl'))
 elaestehik.count('indie')
 print(elaestehik.count('indie'))
 
-# list.sort(*, key=None, reverse=False)
+# list.sort(*, key=None, reverse=False(si está en orden ascendete o descendente))
+elaestehik.sort()
+print(elaestehik.sort())
 
 # list.reverse()
 elaestehik.reverse()
