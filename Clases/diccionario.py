@@ -1,6 +1,6 @@
 # diccionario{}
 # los diccionarios son usados para almacenar datos en formatos key: value
-diccionario1 =dict()
+diccionario1 =dict() #diccionarios vacios
 print('ej de diccionario:', diccionario1, 'su tipo es:', type(diccionario1))
 
 diccioanrio1= {'llave1':'lobo', 'llave2': -82.654, 34: 'cosa','llave4': [2,3,4]}

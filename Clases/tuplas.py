@@ -33,7 +33,7 @@ print('convertiendo tuplas a listas ', list(tupla1), 'tiene tipo:'
       , type(list(tupla1)))
 
 #converir listas a  tuplas
-print('convertiendo listas a tuplas ',tuple(['azul', 'soso'])
+print('convertiendo listas a tuplas ',tuple(['azul', 'soso']))
 
 # a manera de resumen
 #mutabilidad

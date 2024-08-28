@@ -32,7 +32,7 @@ print("str 'a' a boleano", bool('a'))
 
 print('lista vacia [] a booleano', bool([]))
 print('tupla vacia () a booleano', bool(()))
-print('diccionario vacio
+print('diccionario vacio')
 
       
 
