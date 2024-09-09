@@ -1,5 +1,8 @@
 # tipos de datos booleanos
 # Los tipos de dato booleano representan uno de dos posibles valores: true o false
+#Si la variable contiene algun valor, entonces bool retornará True
+# Cualquier número es True, excepto 0.
+# Si la variable, de cualquier tipo de dato no está vacía entonces será True.
 
 valor1 = True #True
 valor2= False
@@ -34,7 +37,11 @@ print('lista vacia [] a booleano', bool([]))
 print('tupla vacia () a booleano', bool(()))
 print('diccionario vacio')
 
-      
+# Los boleanos pueden ser utilizados para identificar posibles ocurrencias
+# por ejemplo las funciones in y not in con listas
+# lista = [456, 'a', 7, 'z']
+# 'a' in lista
+
 
 
 

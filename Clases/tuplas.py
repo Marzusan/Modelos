@@ -41,7 +41,7 @@ print('convertiendo listas a tuplas ',tuple(['azul', 'soso']))
 #slicing
 #convirtiendo duplas a listas
 
-
+#fijas los elementos a lo largo de código
 
 
 

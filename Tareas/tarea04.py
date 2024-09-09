@@ -33,5 +33,19 @@ matriz[3][3] = matriz[3][0]+ matriz[3][1] + matriz[3][2] + matriz[3][3]
 
 print(matriz)
 
+fila=0
+
+for fila in range (4):
+        matriz[fila][3] != sum(matriz[fila][:3])
+        matriz[fila][3] = sum(matriz[fila][:3])
+        print('se modificó', fila)
+else:
+        print('no se modifico', fila)
+
+
+
+
+
+
 
 
